@@ -1,4 +1,4 @@
-![Project Logo]("/public/favicon.ico) # MagicStream - Your Personal Disney+ Experience
+# MagicStream - Your Personal Disney+ Experience
 
 ## 🔥 Overview
 
