@@ -107,4 +107,5 @@ Made with ❤️ by Sachin Chaudahri
 🔗 Connect with me:
 
 🔗 **Connect with me:**  
-[GitHub](https://github.com/sachin-b-chaudhari) | [LinkedIn](www.linkedin.com/in/sachin-b-chaudhari)
+[GitHub](https://github.com/sachin-b-chaudhari) |
+[LinkedIn](www.linkedin.com/in/sachin-b-chaudhari)
