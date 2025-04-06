@@ -3,9 +3,10 @@ import { useParams } from "react-router-dom";
 import styled from "styled-components";
 import db from "../firebase";
 
-const Detail = (props) => {
+const Detail = () => {
   const { id } = useParams();
   const [detailData, setDetailData] = useState({});
+
   useEffect(() => {
     db.collection("movie")
       .doc(id)
@@ -68,12 +69,12 @@ const Container = styled.div`
 `;
 
 const Background = styled.div`
-  left: 0px;
-  opacity: 0.8;
   position: fixed;
+  left: 0px;
   right: 0px;
   top: 0px;
   z-index: -1;
+  opacity: 0.8;
 
   img {
     width: 100vw;
@@ -86,8 +87,8 @@ const Background = styled.div`
 `;
 
 const ImageTitle = styled.div`
-  align-items: flex-end;
   display: flex;
+  align-items: flex-end;
   -webkit-box-pack: start;
   justify-content: flex-start;
   margin: 0px auto;
@@ -108,8 +109,8 @@ const ContentMeta = styled.div`
 `;
 
 const Controls = styled.div`
-  align-items: center;
   display: flex;
+  align-items: center;
   flex-flow: row nowrap;
   margin: 24px 0px;
   min-height: 56px;

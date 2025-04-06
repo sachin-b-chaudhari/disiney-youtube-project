@@ -1,6 +1,6 @@
 🌟 MagicStream - Your Personal Disney+ Experience
 
-A Disney+ Clone built using React.js, Redux Toolkit, and Firebase for authentication and database management. This project replicates the core features of Disney+, including user authentication, movie browsing, and interactive UI components.
+A Disney+ built using React.js, Redux Toolkit, and Firebase for authentication and database management. This project replicates the core features of Disney+, including user authentication, movie browsing, and interactive UI components.
 
 🚀 Features
 
