@@ -1,13 +1,13 @@
-🌟 MagicStream - Your Personal Disney+ Experience
+🌟 **MagicStream - Your Personal Disney+ Experience**
 
-🔥 Overview
+🔥**Overview**
 
 ● A Disney+ built using React.js, Redux Toolkit, and Firebase for authentication and database management. This project replicates the core features of Disney+, including user authentication, movie browsing, and interactive UI components.
 
 🚀 Live Demo: https://disenyplus-colon.web.app/
 📌 GitHub Repository: https://github.com/sachin-b-chaudhari/disiney-youtube-project
 
-✨ Features
+✨ **Features**
 
 🔐 User Authentication (Google Login via Firebase)
 
@@ -19,13 +19,13 @@
 
 🎨 Styled-Components for Modern UI
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Frontend: React.js, React Router, Styled-Components, Redux Toolkit
 Backend: Firebase Firestore, Firebase Authentication, Firebase Storage
 Other Libraries: React Slick, Slick Carousel
 
-🏗 My Project Structure
+🏗 **My Project Structure**
 
 📂 src
 ├── 📂 components # Reusable UI components
@@ -36,9 +36,9 @@ Other Libraries: React Slick, Slick Carousel
 ├── App.js # Main app entry
 ├── index.js # React DOM rendering
 
-🔧 Installation & Setup
+🔧 **Installation & Setup**
 
-1️⃣ Clone the repository:
+1️⃣ **Clone the repository:**
 
 ● git clone https://github.com/your-username/disney-clone.git
 ● cd disney-clone
@@ -46,7 +46,7 @@ Other Libraries: React Slick, Slick Carousel
 2️⃣ Install dependencies:
 npm install
 
-3️⃣ Set up Firebase:
+3️⃣ **Set up Firebase:**
 
 ● Create a Firebase project at Firebase Console.
 
@@ -77,10 +77,10 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 Create a .env file in both frontend and backend folders.
 Add necessary environment variables as per the .env.example.
 
-5️⃣ Run the development server:
+5️⃣ **_Run the development server:_**
 npm start
 
-🚀 Deployment
+🚀 **Deployment**
 Deploy the project using Firebase Hosting or Vercel:
 
 -npm run build
@@ -98,13 +98,11 @@ Deploy the project using Firebase Hosting or Vercel:
 
 Contributions are welcome! Feel free to fork and submit PRs.
 
-📜 License
+📜 **License:**
 
 This project is licensed under the MIT License.
 
 Made with ❤️ by Sachin Chaudahri
-
-🔗 Connect with me:
 
 🔗 **Connect with me:**  
 ● [GitHub](https://github.com/sachin-b-chaudhari) |
@@ -121,4 +119,4 @@ Made with ❤️ by Sachin Chaudahri
 
 📫 Contact
 👨‍💻 Author: Sachin Chaudhari
-📧 Email: sachin.b1935@gmail.com
+📧 [Email]:(sachin.b1935@gmail.com)
