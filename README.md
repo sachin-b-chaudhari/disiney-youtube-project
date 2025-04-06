@@ -5,8 +5,10 @@
 - A Disney+ clone built using React.js, Redux Toolkit, and Firebase for authentication and database management.
 - This project replicates core features of Disney+, including user authentication, movie browsing, and interactive UI components.
 
-**Live Demo:** [https://disenyplus-clone.web.app/](https://disenyplus-clone.web.app/)  
+**Live Demo:** [https://disenyplus-colon.web.app/](https://disenyplus-colon.web.app/)  
 **GitHub Repository:** [https://github.com/sachin-b-chaudhari/disney-youtube-project](https://github.com/sachin-b-chaudhari/disney-youtube-project)
+
+---
 
 ## ✨ Features
 
@@ -16,11 +18,15 @@
 - ☁ **Data Handling:** Firebase Firestore & Storage.
 - 🎨 **Modern UI:** Styled-Components for styling.
 
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend:** React.js, React Router, Styled-Components, Redux Toolkit
 - **Backend:** Firebase Firestore, Firebase Authentication, Firebase Storage
 - **Other Libraries:** React Slick, Slick Carousel
+
+---
 
 ## 🏗 Project Structure
 
@@ -33,6 +39,9 @@
 ├── firebase.js      # Firebase config & setup
 ├── App.js           # Main app entry
 └── index.js         # React DOM rendering
+
+
+---
 
 🔧 **Installation & Setup Section:**
 
@@ -80,6 +89,8 @@ Add necessary environment variables as per the .env.example.
 5️⃣ **_Run the development server:_**
 npm start
 
+---
+
 ```markdown
 ## 🚀 Deployment
 
@@ -89,15 +100,21 @@ To deploy the project using Firebase Hosting:
 npm run build
 firebase deploy
 
+---
+
 ## 🎯 Future Enhancements
 
 - 🎭 User Profiles & Personalization
 - 📝 Watchlist Feature
 - 🎞 Video Streaming Support
 
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork and submit PRs.
+
+---
 
 ## 📜 License
 
@@ -109,6 +126,7 @@ Made with ❤️ by Sachin Chaudahri
 - GitHub: [https://github.com/sachin-b-chaudhari](https://github.com/sachin-b-chaudhari)
 - Email: [sachin.b1935@gmail.com](mailto:sachin.b1935@gmail.com)
 
+---
 
 🧠 Upcoming Features (Planned)
 
@@ -117,6 +135,8 @@ Made with ❤️ by Sachin Chaudahri
 📱 Mobile Responsiveness / PWA – Make it usable on mobile or even installable as an app.
 
 💥 Unit & Integration Tests – Improve stability and reliability for production use.
+
+---
 
 📫 Contact
 👨‍💻 Author: Sachin Chaudhari
