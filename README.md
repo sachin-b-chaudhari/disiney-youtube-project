@@ -2,7 +2,7 @@
 
 🔥 Overview
 
-A Disney+ built using React.js, Redux Toolkit, and Firebase for authentication and database management. This project replicates the core features of Disney+, including user authentication, movie browsing, and interactive UI components.
+● A Disney+ built using React.js, Redux Toolkit, and Firebase for authentication and database management. This project replicates the core features of Disney+, including user authentication, movie browsing, and interactive UI components.
 
 🚀 Live Demo: https://disenyplus-colon.web.app/
 📌 GitHub Repository: https://github.com/sachin-b-chaudhari/disiney-youtube-project
@@ -38,33 +38,33 @@ Other Libraries: React Slick, Slick Carousel
 
 🔧 Installation & Setup
 
-1.Clone the repository:
+1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/disney-clone.git
-cd disney-clone
+● git clone https://github.com/your-username/disney-clone.git
+● cd disney-clone
 
-2.Install dependencies:
+2️⃣ Install dependencies:
 npm install
 
-3.Set up Firebase:
+3️⃣ Set up Firebase:
 
--Create a Firebase project at Firebase Console.
+● Create a Firebase project at Firebase Console.
 
--Enable Authentication (Google Sign-in).
+● Enable Authentication (Google Sign-in).
 
--Enable Firestore Database.
+● Enable Firestore Database.
 
--Enable Firebase Storage.
+● Enable Firebase Storage.
 
--Create a Firebase project at Firebase Console.
+● Create a Firebase project at Firebase Console.
 
--Enable Authentication (Google Sign-in).
+● Enable Authentication (Google Sign-in).
 
--Enable Firestore Database.
+● Enable Firestore Database.
 
--Enable Firebase Storage.
+● Enable Firebase Storage.
 
--Copy your Firebase config and store it in an .env file:
+● Copy your Firebase config and store it in an .env file:
 
 REACT_APP_FIREBASE_API_KEY=your_api_key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
@@ -73,7 +73,11 @@ REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_FIREBASE_APP_ID=your_app_id
 
-4.Run the development server:
+4️⃣ Setup environment variables
+Create a .env file in both frontend and backend folders.
+Add necessary environment variables as per the .env.example.
+
+5️⃣ Run the development server:
 npm start
 
 🚀 Deployment
@@ -103,5 +107,17 @@ Made with ❤️ by Sachin Chaudahri
 🔗 Connect with me:
 
 🔗 **Connect with me:**  
-[GitHub](https://github.com/sachin-b-chaudhari) |
-[LinkedIn](www.linkedin.com/in/sachin-b-chaudhari)
+● [GitHub](https://github.com/sachin-b-chaudhari) |
+● [LinkedIn](www.linkedin.com/in/sachin-b-chaudhari)
+
+🧠 Upcoming Features (Planned)
+
+🎨 UI/UX Improvements – Make the interface sleeker and more interactive.
+
+📱 Mobile Responsiveness / PWA – Make it usable on mobile or even installable as an app.
+
+💥 Unit & Integration Tests – Improve stability and reliability for production use.
+
+📫 Contact
+👨‍💻 Author: Sachin Chaudhari
+📧 Email:  sachin.b1935@gmail.com
