@@ -3,7 +3,6 @@ import { styled } from "styled-components";
 import { useDispatch, useSelector } from "react-redux";
 import {
   selectUserName,
-  selectUserEamil,
   selectUserPhoto,
   setUserLoginDetails,
   setSignOutState,
@@ -60,7 +59,13 @@ const Header = () => {
   return (
     <Nav>
       <Logo>
-        <img src="/images/logo.svg" alt="Disney+" />
+        <img
+          src="/images/logo.svg"
+          alt="Disney+"
+          onClick={() => {
+            userName ? navigate("/home") : navigate("/");
+          }}
+        />
       </Logo>
 
       {!userName ? (
@@ -129,6 +134,7 @@ const Logo = styled.a`
   max-height: 70px;
   font-size: 0;
   display: inline-block;
+  cursor: pointer;
 
   img {
     display: block;
