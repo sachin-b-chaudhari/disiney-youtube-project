@@ -108,7 +108,8 @@ Made with ❤️ by Sachin Chaudahri
 
 🔗 **Connect with me:**  
 ● [GitHub](https://github.com/sachin-b-chaudhari) |
-● [LinkedIn](www.linkedin.com/in/sachin-b-chaudhari)
+
+<!-- ● [LinkedIn](www.linkedin.com/in/sachin-b-chaudhari) -->
 
 🧠 Upcoming Features (Planned)
 
@@ -120,4 +121,4 @@ Made with ❤️ by Sachin Chaudahri
 
 📫 Contact
 👨‍💻 Author: Sachin Chaudhari
-📧 Email:  sachin.b1935@gmail.com
+📧 Email: sachin.b1935@gmail.com
