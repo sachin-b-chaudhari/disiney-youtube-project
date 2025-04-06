@@ -1,8 +1,13 @@
 🌟 MagicStream - Your Personal Disney+ Experience
 
+🔥 Overview
+
 A Disney+ built using React.js, Redux Toolkit, and Firebase for authentication and database management. This project replicates the core features of Disney+, including user authentication, movie browsing, and interactive UI components.
 
-🚀 Features
+🚀 Live Demo: https://disenyplus-colon.web.app/
+📌 GitHub Repository: https://github.com/sachin-b-chaudhari/disiney-youtube-project
+
+✨ Features
 
 🔐 User Authentication (Google Login via Firebase)
 
@@ -16,17 +21,20 @@ A Disney+ built using React.js, Redux Toolkit, and Firebase for authentication a
 
 🛠 Tech Stack
 
--Frontend: React.js, React Router, Styled-Components, Redux Toolkit
+Frontend: React.js, React Router, Styled-Components, Redux Toolkit
+Backend: Firebase Firestore, Firebase Authentication, Firebase Storage
+Other Libraries: React Slick, Slick Carousel
 
--Backend: Firebase Firestore, Firebase Authentication, Firebase Storage
+🏗 My Project Structure
 
--Other Libraries: React Slick, Slick Carousel
-
-📸 Screenshots
-
-Home Page
-
-Movie Details
+📂 src
+├── 📂 components # Reusable UI components
+├── 📂 pages # Pages like Home, Login, Details
+├── 📂 redux # Redux slices & store
+├── 📂 assets # Images & styles
+├── firebase.js # Firebase config & setup
+├── App.js # Main app entry
+├── index.js # React DOM rendering
 
 🔧 Installation & Setup
 
@@ -68,19 +76,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 4.Run the development server:
 npm start
 
-🏗 My Project Structure
-
-📂 src
-├── 📂 components # Reusable UI components
-├── 📂 pages # Pages like Home, Login, Details
-├── 📂 redux # Redux slices & store
-├── 📂 assets # Images & styles
-├── firebase.js # Firebase config & setup
-├── App.js # Main app entry
-├── index.js # React DOM rendering
-
 🚀 Deployment
-
 Deploy the project using Firebase Hosting or Vercel:
 
 -npm run build
